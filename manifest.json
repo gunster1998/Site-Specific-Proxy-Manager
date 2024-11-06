@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Site-Specific Proxy Manager",
+    "version": "1.0",
+    "permissions": [
+      "proxy",
+      "storage",
+      "webRequest",
+      "webRequestBlocking",
+      "<all_urls>"
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "options_page": "options.html"
+  }
+  
