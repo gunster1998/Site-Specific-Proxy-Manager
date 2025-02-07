@@ -8,7 +8,7 @@ let proxySites = [
 
 // Сохраняем параметры прокси
 window.proxy_auth = {
-    address: '46.8.238.89:29416', // Адрес и порт прокси
+    address: '213.232.204.12:29416', // Адрес и порт прокси
     proxy_user: 'PlfK8WgpjG',           // Имя пользователя для прокси
     proxy_password: 'pbwqLX67GN'        // Пароль для прокси
 };
